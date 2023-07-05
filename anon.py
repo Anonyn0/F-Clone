@@ -1,3 +1,5 @@
+import os
+os.system("git pull")
 try:
   import requests,bs4,rich,
 except:
